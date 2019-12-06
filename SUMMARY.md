@@ -9,4 +9,4 @@
     * [2-1 malloc字符串(p28)](Chap2/Chap2-1.md)
     * [2-2 巧用static(p35)](Chap2/Chap2-2.md)
     * [2-3 运算符的优先级(p38)](Chap2/Chap2-3.md)
-    * [2-4 在同一代码块执行"malloc"和"free"](Chap2/Chap2-4.md)
+    * [2-4 在同一代码块执行"malloc"和"free"(p48)](Chap2/Chap2-4.md)
