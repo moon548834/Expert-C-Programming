@@ -10,3 +10,6 @@
     * [2-2 巧用static(p35)](Chap2/Chap2-2.md)
     * [2-3 运算符的优先级(p38)](Chap2/Chap2-3.md)
     * [2-4 在同一代码块执行"malloc"和"free"(p48)](Chap2/Chap2-4.md)
+* [第三章]()
+    * [3-1 C语言生命的优先级规则(p64)](Chap3/Chap3-1.md)
+    * [3-2 使用typedef简洁声名(p67)](Chap3/Chap3-2.md)
