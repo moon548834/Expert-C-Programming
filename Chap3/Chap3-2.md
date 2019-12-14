@@ -11,7 +11,7 @@
 
 `ptr_to_func signal(int, ptr_to_func) //这条语句与最开始的那条等价`
 
-**注意：** **typedef** 声名的变量均是同一种类型，然而 **#define** 定义的类型无法保证
+**注意：** **typedef** 声名的变量均是同一种类型，然而 **#define** 定义的类型无法保证。
 
 ```c
 #define int_ptr int *

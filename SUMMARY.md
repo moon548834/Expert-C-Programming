@@ -13,3 +13,6 @@
 * [第三章]()
     * [3-1 C语言生命的优先级规则(p64)](Chap3/Chap3-1.md)
     * [3-2 使用typedef简洁声名(p67)](Chap3/Chap3-2.md)
+* [第四章]()
+    * [4-1 数组与指针不相同(p81)](Chap4/Chap4-1.md)
+    * [4-2 char *a 与 char a[](p83)](Chap4/Chap4-2.md)
