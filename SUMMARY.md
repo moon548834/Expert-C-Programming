@@ -17,5 +17,9 @@
     * [4-1 数组与指针不相同(p81)](Chap4/Chap4-1.md)
     * [4-2 char *a 与 char a[](p83)](Chap4/Chap4-2.md)
 * [第五章]()
-    * [动态链接思考(p94)](Chap5/Chap5-1.md)
+    * [5-1 动态链接思考(p94)](Chap5/Chap5-1.md)
 * [第六章]()
+    * [6-1 bss段(p119)](Chap6/Chap6-1.md)
+* [第七章]()
+    * [7-1 segmentation fault(p159)](Chap7/Chap7-1.md)
+    
